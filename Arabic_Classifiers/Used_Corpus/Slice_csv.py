@@ -19,14 +19,6 @@ c2 = 0
 c3 = 0
 c4 = 0
 
-#from pprint import pprint
-
-#import time import time
-
-#start = time.time()
-
-#texts = list()
-#Y = list()
 
 row_list = [['text', 'targe']]
 
@@ -53,9 +45,7 @@ with open('arabic_dataset_classifiction.csv', newline='') as csvfile:
             row_list.append([row['text'], row['targe']])
             c4 = c4 + 1
 
-        #Y.append(int(row['targe']))
-        #line = row['text'].split()
-        #texts.append(line)
+        
 
 
 
@@ -66,8 +56,3 @@ with open(NewF, 'w', newline='') as file:
 
 
 
-#pprint(texts)
-#pprint(Y)
-#end = time.time()
-
-#print("Read csv without chunks: ",(end-start),"sec")
