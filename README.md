@@ -354,9 +354,7 @@ lang=EN-US style='mso-ansi-language:EN-US'>If you use software (Arabic
 classifier) from this page, please cite us as follows:<o:p></o:p></span></b></p>
 
 <p class=MsoNormal style='text-align:justify;line-height:normal'><span
-lang=EN-US style='mso-ansi-language:EN-US'>Djelloul BOUCHIHA, Abdelghani
-BOUZIANE, Noureddine DOUMI and Mustafa JARRAR. Machine learning for Arabic Text
-classification: Comparative study. Submitted (still under review).<o:p></o:p></span></p>
+lang=EN-US style='mso-ansi-language:EN-US'>Bouchiha, D., Bouziane, A., & Doumi, N. (2022). Machine Learning for Arabic Text Classification: A Comparative Study. Malaysian Journal of Science and Advanced Technology, 2(4), 163–173. https://doi.org/10.56532/mjsat.v2i4.83.<o:p></o:p></span></p>
 
 <p class=MsoNormal style='text-align:justify;line-height:normal'><span
 lang=EN-US style='mso-ansi-language:EN-US'><o:p>&nbsp;</o:p></span></p>
