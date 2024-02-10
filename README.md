@@ -2542,7 +2542,15 @@ yellow;mso-highlight:yellow'>pip install -U &lt;package&gt;</span><o:p></o:p></s
 justify;line-height:normal'><span lang=EN-US style='mso-ansi-language:EN-US'><o:p>&nbsp;</o:p></span></p>
 
 </div>
-pppppppppppppppppppppppppppp
+
+If you get the following error message: UnicodeDecodeError: 'charmap' codec can't decode byte 0x81 in position 73: character maps to <undefined>
+try to add encoding='utf-8' as follows: aswf = open(name, 'r', encoding='utf-8')
+
+Now if you get this error message: AttributeError: 'NoneType' object has no attribute 'split'
+try to install:
+pip install threadpoolctl==3.1.0
+see also: https://github.com/scikit-learn/scikit-learn/issues/24238
+
 </body>
 
 </html>
