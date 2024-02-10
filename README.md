@@ -2550,7 +2550,7 @@ Now if you get this error message: AttributeError: 'NoneType' object has no attr
 try to install:
 pip install threadpoolctl==3.1.0
 see also: https://github.com/scikit-learn/scikit-learn/issues/24238
-</p>p
+</p>
 </body>
 
 </html>
